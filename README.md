@@ -23,9 +23,12 @@ DataPreparation-Titanic/
 ├── age_boxplot.png
 ├── age_histogram.png
 ├── fare_boxplot.png
+├── requirements.txt              # Dependências completas
+├── requirements-minimal.txt      # Dependências essenciais
 ├── INSTRUÇÕES_KERNEL.md
 ├── iniciar_jupyter.bat
 ├── iniciar_jupyter.ps1
+├── .gitignore
 └── README.md
 ```
 
@@ -36,6 +39,30 @@ DataPreparation-Titanic/
 - **NumPy 2.3.3** - Computação numérica
 - **Matplotlib 3.10.6** - Visualização de dados
 - **Jupyter Notebook** - Ambiente de desenvolvimento
+
+## 📦 Dependências
+
+### `requirements.txt` (Completo)
+Contém todas as dependências do projeto, incluindo:
+- Bibliotecas principais de data science
+- Ambiente Jupyter completo
+- Extensões e widgets
+- Ferramentas de desenvolvimento
+
+### `requirements-minimal.txt` (Essencial)
+Contém apenas as dependências essenciais:
+- Pandas, NumPy, Matplotlib
+- Jupyter básico
+- Dependências mínimas para execução
+
+### Instalação Rápida
+```bash
+# Para desenvolvimento completo
+pip install -r requirements.txt
+
+# Para uso básico
+pip install -r requirements-minimal.txt
+```
 
 ## 🚀 Como Executar
 
@@ -67,6 +94,13 @@ source venv/bin/activate
 
 4. **Instale as dependências:**
 ```bash
+# Opção 1: Instalação completa (recomendada)
+pip install -r requirements.txt
+
+# Opção 2: Instalação mínima (apenas essenciais)
+pip install -r requirements-minimal.txt
+
+# Opção 3: Instalação manual
 pip install pandas numpy matplotlib jupyter
 ```
 

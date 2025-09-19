@@ -1,0 +1,197 @@
+# Data Preparation - Titanic Dataset
+# Core data science libraries
+pandas==2.3.2
+numpy==2.3.3
+matplotlib==3.10.6
+
+# Jupyter environment
+jupyter==1.1.1
+notebook==7.4.5
+ipykernel==6.30.1
+ipython==9.5.0
+
+# Data visualization
+matplotlib-inline==0.1.7
+
+# Date and time utilities
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# System utilities
+psutil==7.1.0
+platformdirs==4.4.0
+
+# Web and HTTP
+requests==2.32.5
+urllib3==2.5.0
+certifi==2025.8.3
+
+# JSON and data formats
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+json5==0.12.1
+
+# Text processing
+Pygments==2.19.2
+beautifulsoup4==4.13.5
+bleach==6.2.0
+soupsieve==2.8
+
+# Security
+argon2-cffi==25.1.0
+argon2-cffi-bindings==25.1.0
+cffi==2.0.0
+pycparser==2.23
+
+# Async and concurrency
+anyio==4.10.0
+async-lru==2.0.5
+nest-asyncio==1.6.0
+tornado==6.5.2
+
+# Jupyter extensions and widgets
+ipywidgets==8.1.7
+widgetsnbextension==4.0.14
+jupyterlab_widgets==3.0.15
+
+# Jupyter server components
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+jupyter_server==2.17.0
+jupyter_server_terminals==0.5.3
+jupyterlab==4.4.7
+jupyterlab_server==2.27.3
+jupyterlab_pygments==0.3.0
+
+# Console and terminal
+jupyter-console==6.6.3
+terminado==0.18.1
+pywinpty==3.0.0
+
+# Language server protocol
+jupyter-lsp==2.3.0
+jupyter-events==0.12.0
+
+# Notebook conversion
+nbconvert==7.16.6
+nbformat==5.10.4
+nbclient==0.10.2
+notebook_shim==0.2.4
+
+# Template and markup
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+mistune==3.1.4
+pandocfilters==1.5.1
+
+# Image processing
+pillow==11.3.0
+
+# Font and text rendering
+fonttools==4.60.0
+
+# Parsing and validation
+lark==1.2.2
+parso==0.8.5
+jedi==0.19.2
+pyparsing==3.2.4
+
+# HTTP client
+httpx==0.28.1
+httpcore==1.0.9
+h11==0.16.0
+sniffio==1.3.1
+
+# Color and styling
+webcolors==24.11.1
+cycler==0.12.1
+contourpy==1.3.3
+
+# Windows specific
+pywin32==311
+
+# Development and debugging
+debugpy==1.8.17
+executing==2.2.1
+stack-data==0.6.3
+pure_eval==0.2.3
+asttokens==3.0.0
+
+# Configuration and traits
+traitlets==5.14.3
+overrides==7.7.0
+
+# Packaging and distribution
+packaging==25.0
+setuptools==65.5.0
+
+# Logging and monitoring
+prometheus_client==0.23.1
+python-json-logger==3.3.0
+
+# File operations
+Send2Trash==1.8.3
+
+# WebSocket support
+websocket-client==1.8.0
+
+# Prompt and terminal interface
+prompt_toolkit==3.0.52
+wcwidth==0.2.13
+colorama==0.4.6
+
+# IPython extensions
+ipython_pygments_lexers==1.1.1
+
+# Data validation
+fastjsonschema==2.21.2
+referencing==0.36.2
+rpds-py==0.27.1
+
+# URL and URI handling
+rfc3986-validator==0.1.1
+rfc3987-syntax==1.1.0
+uri-template==1.3.0
+
+# Date and time validation
+rfc3339-validator==0.1.4
+arrow==1.3.0
+isoduration==20.11.0
+
+# Character encoding
+charset-normalizer==3.4.3
+webencodings==0.5.1
+
+# JSON pointer
+jsonpointer==3.0.0
+
+# Domain name validation
+fqdn==1.5.1
+
+# YAML support
+PyYAML==6.0.2
+
+# ZeroMQ for Jupyter
+pyzmq==27.1.0
+
+# Type checking
+typing_extensions==4.15.0
+types-python-dateutil==2.9.0.20250822
+
+# Utility libraries
+six==1.17.0
+attrs==25.3.0
+decorator==5.2.1
+
+# CSS parsing
+tinycss2==1.4.0
+
+# Internationalization
+babel==2.17.0
+
+# XML processing
+defusedxml==0.7.1
+
+# IPython compatibility
+matplotlib-inline==0.1.7
